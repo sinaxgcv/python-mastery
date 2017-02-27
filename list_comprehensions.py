@@ -13,3 +13,5 @@ for i in range(0, 10):
 
 # But do this
 squares = [i**2 for i in range(0, 10)]
+
+# More information at the blog post above
