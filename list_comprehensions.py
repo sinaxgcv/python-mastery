@@ -1,3 +1,6 @@
+"""Learn all about List Comprehensions
+    https://python-programming.courses/code-mastery/list-comprehensions/
+"""
 # Don't do this
 squares = []
 for i in range(0, 10):
