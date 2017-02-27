@@ -1,5 +1,7 @@
 """Learn all about List Comprehensions
     https://python-programming.courses/code-mastery/list-comprehensions/
+
+    Author: Michael Anckaert <michael.anckaert@sinax.be>
 """
 # Don't do this
 squares = []
